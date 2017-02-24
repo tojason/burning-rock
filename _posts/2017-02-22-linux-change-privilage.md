@@ -1,5 +1,5 @@
 ---
-title: Linux-function to change uder privilage
+title: Linux-function to change user privilage
 layout: single
 ---
 
